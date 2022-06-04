@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memegenrator/static/css/main.7ca6cc20.chunk.css",
+    "main.js": "/memegenrator/static/js/main.129db8db.chunk.js",
+    "main.js.map": "/memegenrator/static/js/main.129db8db.chunk.js.map",
+    "runtime-main.js": "/memegenrator/static/js/runtime-main.f906f346.js",
+    "runtime-main.js.map": "/memegenrator/static/js/runtime-main.f906f346.js.map",
+    "static/js/2.bb1dc23c.chunk.js": "/memegenrator/static/js/2.bb1dc23c.chunk.js",
+    "static/js/2.bb1dc23c.chunk.js.map": "/memegenrator/static/js/2.bb1dc23c.chunk.js.map",
+    "static/js/3.10e33cfc.chunk.js": "/memegenrator/static/js/3.10e33cfc.chunk.js",
+    "static/js/3.10e33cfc.chunk.js.map": "/memegenrator/static/js/3.10e33cfc.chunk.js.map",
+    "index.html": "/memegenrator/index.html",
+    "static/css/main.7ca6cc20.chunk.css.map": "/memegenrator/static/css/main.7ca6cc20.chunk.css.map",
+    "static/js/2.bb1dc23c.chunk.js.LICENSE.txt": "/memegenrator/static/js/2.bb1dc23c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f906f346.js",
+    "static/js/2.bb1dc23c.chunk.js",
+    "static/css/main.7ca6cc20.chunk.css",
+    "static/js/main.129db8db.chunk.js"
+  ]
+}
